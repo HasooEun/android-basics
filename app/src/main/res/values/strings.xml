@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vending Machine</string>
+    <string name="americano">아메리카노 (1000원)</string>
+    <string name="cafelatte">카페라떼 (1500원)</string>
+    <string name="cafemocha">카페모카 (1700원)</string>
+    <string name="discount">할인카드 있음 (10% 할인)</string>
+    <string name="cal_price">총 금액 계산</string>
+    <string name="order_total">주문갯수:</string>
+    <string name="discount_total">할인금액:</string>
+    <string name="price_total">결제금액:</string>
+</resources>
